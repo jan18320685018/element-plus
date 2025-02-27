@@ -8,7 +8,7 @@
       :min-scale="0.2"
       :preview-src-list="srcList"
       show-progress
-      :initial-index="4"
+      :initial-index="3"
       fit="cover"
     />
   </div>
